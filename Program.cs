@@ -74,7 +74,7 @@ while (index < n )
     {
         Console.WriteLine(index);
     }
-    index = index + 2;
+    index ++;
 }
 
 
